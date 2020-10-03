@@ -8,7 +8,7 @@ Otherwise you have to own an original ORIC ATMOS ;-)
 
 With Oricutron, Copy the file ORIC/EdgeV2.0/BUILD/EdgeF2.tap into the **oricutron**/tapes directory
 
-Launch Oricutron. Right click inside the window, chosse "Insert Tape". Select Edge***.tap file.
+Launch Oricutron. Right click inside the window, choose "Insert Tape". Select Edge***.tap file.
 
 Then, type CLOAD "" / Enter. It will launch the game.
 
